@@ -1,2 +1,2 @@
-# heroku-ml-deployment
-Heroku ML Deployment
+# Heroku-ML-App
+Heroku Machine Learnign App
